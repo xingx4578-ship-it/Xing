@@ -8,7 +8,7 @@
   "server": {
     "ip": "MULTISMP01.aternos.me",
     "port": 40558,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
